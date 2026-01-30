@@ -1,0 +1,9 @@
+{
+  "id": "$manifest-neuron-7f3b9b8e-4d9c-4b9e-a1d6-ec2a4c0d91f1",
+  "version": 1,
+  "title": "City Stabilization Core",
+  "text": "Bangunan untuk menstabilkan pendidikan, lingkungan, dan ekonomi kota.",
+  "author": "Neuron",
+  "category": false,
+  "once": true
+}
