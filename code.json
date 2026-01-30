@@ -15,10 +15,10 @@
     ],
 
     "price": 100,
-    "monthly price": -250000,
+    "monthly price": 100,
     "build time": 1,
 
-    "influence park": 1024,
+    "influence park": 10240,
 
     "influence education low": 18000,
     "influence education medium": 16000,
