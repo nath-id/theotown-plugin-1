@@ -1,0 +1,49 @@
+[
+  {
+    "id": "$neuron.education.core",
+    "author": "Neuron",
+
+    "type": "education",
+
+    "width": 4,
+    "height": 4,
+
+    "frames": [
+      {
+        "bmp": "neuronn.png"
+      }
+    ],
+
+    "price": 100,
+    "monthly price": -250000,
+    "build time": 1,
+
+    "influence park": 1024,
+
+    "influence education low": 18000,
+    "influence education medium": 16000,
+    "influence education high": 18000,
+
+    "influence pollution": -25000,
+    "influence noise": -25000,
+
+    "influence nature": 20000,
+    "influence sport": 18000,
+    "influence culture": 20000,
+
+    "provide aspect education low": 5000000,
+    "provide aspect education medium": 4500000,
+    "provide aspect education high": 5000000,
+
+    "aspect education low capacity": 5000000,
+    "aspect education medium capacity": 4500000,
+    "aspect education high capacity": 5000000,
+
+    "power radius": 1024,
+
+    "needs land": true,
+    "draw ground": true,
+    "supports slope": true,
+    "supports terrain": true
+  }
+]
